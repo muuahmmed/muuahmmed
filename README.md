@@ -27,8 +27,6 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-###
-
 <p align="left">
 I'm Mohammed Magdy from Egypt 🇪🇬 <br><br>
 - 🔭 I’m working as <b>Flutter Developer & Machine Learning Engineer</b><br>
@@ -78,7 +76,7 @@ I'm Mohammed Magdy from Egypt 🇪🇬 <br><br>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="40" alt="sqlserver logo" />
 
   <!-- Visualization -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="powerbi logo" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" alt="powerbi logo" />
   <img width="12" />
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" height="40" alt="tableau logo" />
 
@@ -87,6 +85,16 @@ I'm Mohammed Magdy from Egypt 🇪🇬 <br><br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
+
+###
+
+<h3 align="left">🚀 Featured Projects</h3>
+
+- 📱 [Britfy Fix (Play Store)](https://play.google.com/store/apps/details?id=at.britify.fix) – Mobile app connecting users with service providers.  
+- 🐾 [Wago (Play Store)](https://play.google.com/store/apps/details?id=com.wago.android) – Pet care services platform.  
+- 📖 [Bookly (GitHub)](https://github.com/muuahmmed/Bookly) – Book reading platform with in-app search and preview.  
+- 🚦 [Accident Severity Prediction (GitHub)](https://github.com/MennaAhmad/SafeRoad) – ML model predicting traffic accident severity.  
+- 💹 Quantum Model – Predicting cryptocurrency ETF performance with 82% accuracy.  
 
 ###
 
