@@ -32,48 +32,74 @@
 <p align="left">
 I'm Mohammed Magdy from Egypt 🇪🇬 <br><br>
 - 🔭 I’m working as <b>Flutter Developer & Machine Learning Engineer</b><br>
-- 📚 I'm currently learning <b>Deep Learning & Advanced Flutter</b><br>
+- 📚 I'm currently learning <b>Deep Learning & Data Warehousing</b><br>
 - ⚡ In my free time I contribute to open-source and work on personal projects
 </p>
 
 ###
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h3 align="left">🎓 Certifications</h3>
+
+- NTI Summer Training in Machine Learning (120h)  
+- NTI HCAI Track – Artificial Intelligence (80h)  
+- Cisco CCNAv7 (Networking)  
+- ITI Tech Leaps – Data Warehouse Project  
 
 ###
 
+<h3 align="left">🛠 Languages and Tools</h3>
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <!-- Programming & Mobile -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+
+  <!-- Data Science -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" height="40" alt="huggingface logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib logo" />
+  <img width="12" />
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="40" alt="sqlserver logo" />
+
+  <!-- Visualization -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="powerbi logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" height="40" alt="tableau logo" />
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
 ###
 
 <h3 align="left">🔥 My Stats</h3>
 
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=muuahmmed&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=muuahmmed&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muuahmmed&show_icons=true&theme=dark" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=muuahmmed&show_icons=true&theme=dark" height="200" alt="stats graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muuahmmed&layout=compact&theme=dark" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muuahmmed&layout=compact&theme=dark" height="200" alt="languages graph" />
 </div>
