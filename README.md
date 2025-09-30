@@ -41,7 +41,6 @@ I'm Mohammed Magdy from Egypt 🇪🇬 <br><br>
 - NTI Summer Training in Machine Learning (120h)  
 - NTI HCAI Track – Artificial Intelligence (80h)  
 - Cisco CCNAv7 (Networking)  
-- ITI Tech Leaps – Data Warehouse Project  
 
 ###
 
@@ -95,6 +94,7 @@ I'm Mohammed Magdy from Egypt 🇪🇬 <br><br>
 - 📖 [Bookly (GitHub)](https://github.com/muuahmmed/Bookly) – Book reading platform with in-app search and preview.  
 - 🚦 [Accident Severity Prediction (GitHub)](https://github.com/MennaAhmad/SafeRoad) – ML model predicting traffic accident severity.  
 - 💹 Quantum Model – Predicting cryptocurrency ETF performance with 82% accuracy.  
+- 🛫 ITI Tech Leaps – Data Warehouse Project – Designed a custom DWH and ETL pipelines for an airline company.  
 
 ###
 
