@@ -30,7 +30,7 @@
 <p align="left">
 I'm Mohammed Magdy from Egypt 🇪🇬 <br><br>
 - 🔭 I’m working as <b>Flutter Developer & Machine Learning Engineer</b><br>
-- 📚 I'm currently learning <b>Deep Learning & Data Warehousing</b><br>
+- 📚 I'm currently learning <b>Data Analysis & Data Enfineering & Data Warehousing</b><br>
 - ⚡ In my free time I contribute to open-source and work on personal projects
 </p>
 
@@ -57,8 +57,6 @@ I'm Mohammed Magdy from Egypt 🇪🇬 <br><br>
 
   <!-- Data Science -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" height="40" alt="huggingface logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
   <img width="12" />
@@ -89,8 +87,7 @@ I'm Mohammed Magdy from Egypt 🇪🇬 <br><br>
 
 <h3 align="left">🚀 Featured Projects</h3>
 
-- 📱 [Britfy Fix (Play Store)](https://play.google.com/store/apps/details?id=at.britify.fix) – Mobile app connecting users with service providers.  
-- 🐾 [Wago (Play Store)](https://play.google.com/store/apps/details?id=com.wago.android) – Pet care services platform.  
+- 📱 [Britfy Fix (Play Store)](https://play.google.com/store/apps/details?id=at.britify.fix) – Mobile app connecting users with service providers. 
 - 📖 [Bookly (GitHub)](https://github.com/muuahmmed/Bookly) – Book reading platform with in-app search and preview.  
 - 🚦 [Accident Severity Prediction (GitHub)](https://github.com/MennaAhmad/SafeRoad) – ML model predicting traffic accident severity.  
 - 💹 Quantum Model – Predicting cryptocurrency ETF performance with 82% accuracy.  
