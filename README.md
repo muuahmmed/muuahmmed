@@ -26,7 +26,7 @@
 <h3 align="center">Results-driven AI & Data Specialist | Flutter Developer | Machine Learning Engineer</h3>
 
 <p align="center">
-[cite_start]Experienced in architecting <b>Enterprise-Grade</b> mobile applications and building robust <b>Data Warehousing</b> pipelines. [cite: 5, 51]
+Experienced in architecting <b>Enterprise-Grade</b> mobile applications and building robust <b>Data Warehousing</b> pipelines.
 </p>
 
 ###
@@ -34,10 +34,10 @@
 <h3 align="left">👨‍💻 Core Expertise</h3>
 
 <p align="left">
-- [cite_start]🔭 Working on: <b>End-to-End Data Warehousing & ETL Pipelines</b> (Bronze, Silver, Gold layers). [cite: 32, 51]
-- [cite_start]📱 Specialized in: <b>Flutter Clean Architecture</b> & Enterprise App Deployment. [cite: 18, 34]
-- [cite_start]🤖 Researching: <b>Predictive Modeling</b> and Financial Data Optimization. [cite: 22, 45]
-- [cite_start]🎓 Education: B.Sc. in <b>Computer Science & Artificial Intelligence</b>. [cite: 9]
+- [cite_start]🔭 Working on: <b>End-to-End Data Warehousing & ETL Pipelines</b> (Bronze, Silver, Gold layers)[cite: 32, 51].
+- [cite_start]📱 Specialized in: <b>Flutter Clean Architecture</b> & Enterprise App Deployment[cite: 18, 34].
+- [cite_start]🤖 Researching: <b>Predictive Modeling</b> and Financial Data Optimization[cite: 22, 45].
+- [cite_start]🎓 Education: B.Sc. in <b>Computer Science & Artificial Intelligence</b>[cite: 9].
 </p>
 
 ###
@@ -50,8 +50,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <br>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -62,11 +62,11 @@
 
 <h3 align="left">🚀 Key Impact Projects</h3>
 
-- 🛫 **Airline Data Warehouse** | [cite_start]Designed dimensional models and ETL pipelines using SQL and Informatica. [cite: 51, 52]
-- 📱 **Britfy Fix** | [cite_start]Scalable Flutter app with Clean Architecture for service provider scheduling. [cite: 48, 49]
-- 💹 **Quantum Predictive Model** | [cite_start]Optimized cryptocurrency strategies with 82% accuracy using TensorFlow. [cite: 45, 46]
-- 📊 **Interactive Sales Dashboard** | [cite_start]Advanced DAX measures and YoY growth reporting in Power BI. [cite: 39, 43]
-- 🚦 **Accident Severity Prediction** | [cite_start]ML model leveraging Random Forest on 1.6M+ records. [cite: 54, 56]
+- 🛫 **Airline Data Warehouse** | [cite_start]Designed dimensional models and ETL pipelines using SQL and Informatica[cite: 51, 52].
+- 📱 **Britfy Fix** | [cite_start]Scalable Flutter app with Clean Architecture for service provider scheduling[cite: 48, 49].
+- 💹 **Quantum Predictive Model** | [cite_start]Optimized cryptocurrency strategies with 82% accuracy using TensorFlow[cite: 45, 46].
+- 📊 **Interactive Sales Dashboard** | [cite_start]Advanced DAX measures and YoY growth reporting in Power BI[cite: 39, 43].
+- 🚦 **Accident Severity Prediction** | [cite_start]ML model leveraging Random Forest on 1.6M+ records[cite: 54, 56].
 
 ###
 
