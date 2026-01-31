@@ -23,7 +23,7 @@
 
 <h1 align="center">Hey there, I'm Mohammed Magdy 👋</h1>
 
-<h3 align="center">Machine Learning Engineer | Data Engineering Specialist | Senior Flutter Developer</h3>
+<h3 align="center"> Data Specialist | Junior Flutter Developer | Machine Learning Engineer</h3>
 
 <p align="center">
 Computer Science & AI graduate with a passion for building <b>High-Performance Mobile Platforms</b> and <b>Enterprise Data Solutions</b>. Proven track record in delivering measurable results through predictive modeling and clean code architecture.
