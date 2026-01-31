@@ -23,7 +23,7 @@
 
 <h1 align="center">Hey there, I'm Mohammed Magdy 👋</h1>
 
-<h3 align="center"> Data Specialist | Junior Flutter Developer | Machine Learning Engineer</h3>
+<h3 align="center">Data Analyst | Data Modelling | Machine Learning Engineer | Flutter Developer</h3>
 
 <p align="center">
 Computer Science & AI graduate with a passion for building <b>High-Performance Mobile Platforms</b> and <b>Enterprise Data Solutions</b>. Proven track record in delivering measurable results through predictive modeling and clean code architecture.
@@ -34,22 +34,22 @@ Computer Science & AI graduate with a passion for building <b>High-Performance M
 <h3 align="left">👨‍💻 Professional Summary</h3>
 
 <p align="left">
-- 🔭 **Current Focus:** Advanced ETL Pipelines & Data Warehousing (Medallion Architecture).
-- 📱 **Mobile Expertise:** Flutter Clean Architecture, BLoC, and multi-regional enterprise deployment.
-- 🤖 **AI/ML Specialization:** Deep Learning, NLP, and Predictive Analytics (Certified with scores up to 90%).
-- 🌍 **Communication:** Professional proficiency in English (<b>C1 Advanced - EF SET 69/100</b>).
+- 🔭 <b>Current Focus:</b> Advanced ETL Pipelines & Data Warehousing (Medallion Architecture).<br>
+- 📱 <b>Mobile Expertise:</b> Flutter Clean Architecture, BLoC, and multi-regional enterprise deployment.<br>
+- 🤖 <b>AI/ML Specialization:</b> Deep Learning, NLP, and Predictive Analytics (Certified with scores up to 90%).<br>
+- 🌍 <b>Communication:</b> Professional proficiency in English (<b>C1 Advanced - EF SET 69/100</b>).
 </p>
 
 ###
 
 <h3 align="left">🎓 Professional Certifications</h3>
 
-- 🏆 **Machine Learning for Data Analysis** | National Telecommunication Institute (NTI) - **Score: 85%**
-- 🏆 **Machine Learning Specialist** | Orange Digital Center (ODC) - **Grade: 90%**
-- 🏆 **SQL (Intermediate & Basic)** | HackerRank Certified
-- 🏆 **AI & Machine Learning Foundations** | Sprints Certified
-- 🏆 **CCNAv7: Introduction to Networks** | Cisco Networking Academy
-- 🏆 **Advanced English (C1)** | EF SET Certified & SmallTalk (B2 Speaking)
+- 🏆 <b>Machine Learning for Data Analysis</b> | National Telecommunication Institute (NTI) - <b>Score: 85%</b>
+- 🏆 <b>Machine Learning Specialist</b> | Orange Digital Center (ODC) - <b>Grade: 90%</b>
+- 🏆 <b>SQL (Intermediate & Basic)</b> | HackerRank Certified
+- 🏆 <b>AI & Machine Learning Foundations</b> | Sprints Certified
+- 🏆 <b>CCNAv7: Introduction to Networks</b> | Cisco Networking Academy
+- 🏆 <b>Advanced English (C1)</b> | EF SET Certified & SmallTalk (B2 Speaking)
 
 ###
 
@@ -61,23 +61,24 @@ Computer Science & AI graduate with a passion for building <b>High-Performance M
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <br>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cisco_CCNA-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
 ###
 
 <h3 align="left">🚀 Key Impact Projects</h3>
 
-- 🛫 **Airline Data Warehouse** | Built scalable DWH using SQL and Informatica for multidimensional analytics.
-- 📱 **Britfy Fix** | Production-ready Flutter app using Clean Architecture (Handles 1M+ API requests/day).
-- 💹 **Quantum Predictive Model** | Achieved 82% accuracy in crypto forecasting using Python & TensorFlow.
-- 🚦 **Accident Severity Prediction** | ML model trained on 1.6M+ records with high-precision classification.
-- 📖 **Bookly & Qurany** | Modern mobile experiences focusing on performance and seamless state management.
+- 🏗️ <b><a href="https://github.com/muuahmmed/sql_data_warehouse_project">SQL Data Warehouse Project</a></b> | Implemented a full <b>Medallion Architecture</b> (Bronze, Silver, Gold) with automated ETL procedures and data cleaning.
+- 📊 <b><a href="https://github.com/muuahmmed/PowerBI-Sales-Dashboard">Power BI Sales Dashboard</a></b> | Developed a comprehensive sales analytics tool with <b>advanced DAX measures</b>, interactive visualizations, and YOY growth tracking.
+- 🛫 <b>Airline Data Warehouse</b> | Built scalable DWH using SQL and Informatica for multidimensional analytics.
+- 📱 <b>Britfy Fix</b> | Production-ready Flutter app using Clean Architecture (Handles 1M+ API requests/day).
+- 💹 <b>Quantum Predictive Model</b> | Achieved 82% accuracy in crypto forecasting using Python & TensorFlow.
+- 🚦 <b>Accident Severity Prediction</b> | ML model trained on 1.6M+ records with high-precision classification.
 
 ###
 
