@@ -47,9 +47,9 @@ Computer Science & AI graduate with a passion for building <b>High-Performance M
 - 🏆 **Machine Learning for Data Analysis** | National Telecommunication Institute (NTI) - **Score: 85%**
 - 🏆 **Machine Learning Specialist** | Orange Digital Center (ODC) - **Grade: 90%**
 - 🏆 **SQL (Intermediate & Basic)** | HackerRank Certified
-- 🏆 **AI & Machine Learning Foundations** | Sprints
+- 🏆 **AI & Machine Learning Foundations** | Sprints Certified
 - 🏆 **CCNAv7: Introduction to Networks** | Cisco Networking Academy
-- 🏆 **Advanced English (C1)** | EF SET & SmallTalk (B2 Speaking)
+- 🏆 **Advanced English (C1)** | EF SET Certified & SmallTalk (B2 Speaking)
 
 ###
 
