@@ -23,10 +23,10 @@
 
 <h1 align="center">Hey there, I'm Mohammed Magdy 👋</h1>
 
-<h3 align="center">Machine Learning Engineer | Flutter Developer | Data Specialist</h3>
+<h3 align="center">Machine Learning Engineer | Data Engineering Specialist | Senior Flutter Developer</h3>
 
 <p align="center">
-Computer Science & AI graduate with a strong focus on building <b>Scalable Mobile Platforms</b> and <b>Advanced Predictive Models</b>. Certified in SQL, Networking, and Machine Learning from top-tier institutes.
+Computer Science & AI graduate with a passion for building <b>High-Performance Mobile Platforms</b> and <b>Enterprise Data Solutions</b>. Proven track record in delivering measurable results through predictive modeling and clean code architecture.
 </p>
 
 ###
@@ -34,21 +34,22 @@ Computer Science & AI graduate with a strong focus on building <b>Scalable Mobil
 <h3 align="left">👨‍💻 Professional Summary</h3>
 
 <p align="left">
-- 🔭 **Current Focus:** Architecting End-to-End Data Warehousing & ETL Pipelines.
-- 📱 **Mobile Expertise:** Flutter Clean Architecture, BLoC State Management, and Enterprise Deployment.
-- 🤖 **ML Specialization:** Predictive Modeling, Deep Learning, and NLP with proven 90% performance scores.
-- 🌍 **Languages:** Native Arabic | <b>C1 Advanced English</b> (EF SET Score: 69/100).
+- 🔭 **Current Focus:** Advanced ETL Pipelines & Data Warehousing (Medallion Architecture).
+- 📱 **Mobile Expertise:** Flutter Clean Architecture, BLoC, and multi-regional enterprise deployment.
+- 🤖 **AI/ML Specialization:** Deep Learning, NLP, and Predictive Analytics (Certified with scores up to 90%).
+- 🌍 **Communication:** Professional proficiency in English (<b>C1 Advanced - EF SET 69/100</b>).
 </p>
 
 ###
 
 <h3 align="left">🎓 Professional Certifications</h3>
 
-- 🏆 **Machine Learning for Data Analysis** | [cite_start]NTI (National Telecommunication Institute) - Score: 85% 
-- 🏆 **Machine Learning Specialist** | [cite_start]Orange Digital Center - Grade: 90% 
-- 🏆 **SQL Intermediate & Basic** | [cite_start]HackerRank Skill Certification [cite: 4, 5]
-- 🏆 **AI and Machine Learning Foundations** | [cite_start]Sprints 
-- 🏆 **CCNAv7: Introduction to Networks** | [cite_start]Cisco Networking Academy [cite: 6]
+- 🏆 **Machine Learning for Data Analysis** | National Telecommunication Institute (NTI) - **Score: 85%**
+- 🏆 **Machine Learning Specialist** | Orange Digital Center (ODC) - **Grade: 90%**
+- 🏆 **SQL (Intermediate & Basic)** | HackerRank Certified
+- 🏆 **AI & Machine Learning Foundations** | Sprints
+- 🏆 **CCNAv7: Introduction to Networks** | Cisco Networking Academy
+- 🏆 **Advanced English (C1)** | EF SET & SmallTalk (B2 Speaking)
 
 ###
 
@@ -64,6 +65,7 @@ Computer Science & AI graduate with a strong focus on building <b>Scalable Mobil
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
   <br>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cisco_CCNA-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
@@ -71,22 +73,23 @@ Computer Science & AI graduate with a strong focus on building <b>Scalable Mobil
 
 <h3 align="left">🚀 Key Impact Projects</h3>
 
-- 🛫 **Airline Data Warehouse** | [cite_start]Dimensional modeling and ETL pipelines using SQL and Informatica. [cite: 2]
-- 📱 **Britfy Fix** | [cite_start]Enterprise-grade Flutter app with 1M+ API request handling capability. [cite: 1, 2]
-- 💹 **Quantum Predictive Model** | [cite_start]Achieved 82% accuracy in crypto ETF forecasting using TensorFlow. [cite: 2]
-- 📊 **Accident Severity Prediction** | [cite_start]ML model leveraging Random Forest on 1.6M+ records. [cite: 2]
+- 🛫 **Airline Data Warehouse** | Built scalable DWH using SQL and Informatica for multidimensional analytics.
+- 📱 **Britfy Fix** | Production-ready Flutter app using Clean Architecture (Handles 1M+ API requests/day).
+- 💹 **Quantum Predictive Model** | Achieved 82% accuracy in crypto forecasting using Python & TensorFlow.
+- 🚦 **Accident Severity Prediction** | ML model trained on 1.6M+ records with high-precision classification.
+- 📖 **Bookly & Qurany** | Modern mobile experiences focusing on performance and seamless state management.
 
 ###
 
-<h3 align="left">🔥 My GitHub Stats</h3>
+<h3 align="left">🔥 GitHub Performance</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=muuahmmed&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=muuahmmed&show_icons=true&theme=dark" height="200" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=muuahmmed&locale=en&theme=dark&hide_border=false&border_radius=5" height="220" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muuahmmed&show_icons=true&theme=dark" height="200" />
 </div>
 
 ###
 
 <div align="center">
-  <p><i>"Passionate about writing clean, maintainable, and efficient code."</i></p>
+  <p><i>"Committed to writing clean, maintainable, and efficient code that bridges AI and Mobile experiences."</i></p>
 </div>
