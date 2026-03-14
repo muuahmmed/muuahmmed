@@ -73,12 +73,13 @@ Computer Science & AI graduate with a passion for building <b>High-Performance M
 
 <h3 align="left">🚀 Key Impact Projects</h3>
 
-- 🏗️ <b><a href="https://github.com/muuahmmed/sql_data_warehouse_project">SQL Data Warehouse Project</a></b> | Implemented a full <b>Medallion Architecture</b> (Bronze, Silver, Gold) with automated ETL procedures and data cleaning.
-- 📊 <b><a href="https://github.com/muuahmmed/PowerBI-Sales-Dashboard">Power BI Sales Dashboard</a></b> | Developed a comprehensive sales analytics tool with <b>advanced DAX measures</b>, interactive visualizations, and YOY growth tracking.
-- 🛫 <b>Airline Data Warehouse</b> | Built scalable DWH using SQL and Informatica for multidimensional analytics.
-- 📱 <b>Britfy Fix</b> | Production-ready Flutter app using Clean Architecture (Handles 1M+ API requests/day).
-- 💹 <b>Quantum Predictive Model</b> | Achieved 82% accuracy in crypto forecasting using Python & TensorFlow.
-- 🚦 <b>Accident Severity Prediction</b> | ML model trained on 1.6M+ records with high-precision classification.
+- 🏗️ **[End-to-End Sales Data Warehouse](https://github.com/muuahmmed/PowerBI-Sales-Dashboard-DataWarehouse)** | Engineered a full **Medallion Architecture** (Bronze, Silver, Gold) on SQL Server. Automated ETL using Stored Procedures to clean and transform **60K+ rows** from CRM & ERP sources into a Star Schema model.
+- 📱 **[Hero - Flutter Clean Architecture](https://github.com/muuahmmed/hero)** | A flagship production-ready application implementing **Clean Architecture** and **BLoC** state management. Showcases advanced networking with **Dio**, custom animations, and scalable UI engineering.
+- 📊 **[Power BI Sales Dashboard](https://github.com/muuahmmed/PowerBI-Sales-Dashboard)** | Developed an interactive analytics tool with **advanced DAX measures** (YoY Growth, Profit Margin %). Designed regional heat maps and drill-down reports to drive executive decision-making.
+- 🏗️ **[SQL Data Warehouse Project](https://github.com/muuahmmed/sql_data_warehouse_project)** | Architected an end-to-end DWH using **Informatica PowerCenter** for automated ETL and **Dimensional Modeling** (Star/Snowflake) to integrate disparate airline data sources.
+- 📱 **Britfy Fix** | Scalable mobile platform with a custom API gateway handling **1M+ requests daily**.
+- 💹 **Quantum Predictive Model** | Developed predictive algorithms in Python to optimize financial trading and identify high-performing assets with **82% accuracy**.
+- 🚦 **Accident Severity Prediction** | ML model built on **1.6M+ records** using Random Forest and AdaBoost for high-precision safety analytics.
 
 ###
 
